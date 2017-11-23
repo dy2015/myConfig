@@ -1,5 +1,5 @@
 springCloud-config:
-  appName: springCloud-app-new
+  appName: springCloud-app-new-name
   appKey: dingyi
   appPassword: 888888
   
